@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Prevent dev-related paths (if any) from being indexed
+Disallow: /@vite/
+Disallow: /@react-refresh
+

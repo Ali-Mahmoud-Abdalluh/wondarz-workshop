@@ -1,0 +1,16 @@
+import{d as a,j as e,m as s}from"./vendor-C_0X6-sc.js";import{B as d}from"./briefcase-DD96J5iH.js";import{u as c}from"./index-COqxOsfP.js";/**
+ * @license lucide-react v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const x=[["path",{d:"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2",key:"1yyitq"}],["circle",{cx:"9",cy:"7",r:"4",key:"nufk8"}],["line",{x1:"19",x2:"19",y1:"8",y2:"14",key:"1bvyxn"}],["line",{x1:"22",x2:"16",y1:"11",y2:"11",key:"1shjgl"}]],m=a("user-plus",x);/**
+ * @license lucide-react v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const p=[["path",{d:"M16 7h6v6",key:"box55l"}],["path",{d:"m22 7-8.5 8.5-5-5L2 17",key:"1t1m79"}]],u=a("trending-up",p);/**
+ * @license lucide-react v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const g=[["path",{d:"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2",key:"1yyitq"}],["path",{d:"M16 3.128a4 4 0 0 1 0 7.744",key:"16gr8j"}],["path",{d:"M22 21v-2a4 4 0 0 0-3-3.87",key:"kshegd"}],["circle",{cx:"9",cy:"7",r:"4",key:"nufk8"}]],h=a("users",g),w=()=>{const{t,dir:n}=c(),r=[m,d,u,h];return e.jsx("section",{className:"py-12 md:py-20 lg:py-24 bg-zinc-950 cv-auto",children:e.jsx("div",{className:"w-full max-w-[1280px] mx-auto px-4 sm:px-6 lg:px-8",children:e.jsxs("div",{className:"w-full bg-gradient-to-br from-zinc-900 to-zinc-950 rounded-2xl sm:rounded-3xl p-6 sm:p-10 md:p-16 border border-zinc-800 text-center relative overflow-hidden",children:[e.jsx("div",{className:"absolute top-0 right-0 w-48 h-48 sm:w-64 sm:h-64 bg-brand-500/10 blur-[60px] sm:blur-[100px] rounded-full pointer-events-none","aria-hidden":"true"}),e.jsx(s.h2,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},viewport:{once:!0},className:"text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-display font-bold text-white mb-8 md:mb-16 max-w-4xl mx-auto leading-tight",children:t.audience.title}),e.jsx("div",{className:"grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 lg:gap-8 text-left rtl:text-right max-w-6xl mx-auto",children:t.audience.items.map((l,i)=>{const o=r[i];return e.jsxs(s.div,{initial:{opacity:0,x:n==="rtl"?20:-20},whileInView:{opacity:1,x:0},viewport:{once:!0},transition:{delay:i*.1},className:"flex items-center gap-4 p-4 sm:p-5 rounded-xl sm:rounded-2xl bg-zinc-900/50 border border-zinc-800/50 hover:bg-zinc-800/80 hover:border-brand-500/30 transition-all duration-300 group",children:[e.jsx("div",{className:"bg-brand-600/10 p-3 sm:p-4 rounded-full text-brand-500 shrink-0 group-hover:bg-brand-600/20 group-hover:scale-110 transition-all duration-300",children:e.jsx(o,{className:"w-6 h-6 sm:w-7 sm:h-7"})}),e.jsx("span",{className:"text-zinc-300 text-base sm:text-lg lg:text-xl font-medium leading-relaxed",children:l})]},i)})}),e.jsx(s.div,{initial:{opacity:0},whileInView:{opacity:1},transition:{delay:.6},className:"mt-10 sm:mt-16 pt-10 sm:pt-12 border-t border-zinc-800/50 max-w-4xl mx-auto",children:e.jsx("p",{className:"text-base sm:text-lg md:text-xl lg:text-2xl text-white font-medium leading-relaxed",children:t.audience.conclusion})})]})})})};export{w as default};
